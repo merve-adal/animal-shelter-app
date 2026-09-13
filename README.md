@@ -4,7 +4,7 @@ BiYuva is a feature-rich, cross-platform mobile application developed as a Compu
 
 ---
 
-## 👩‍💻 My Contributions
+## My Contributions
 As a core developer of this graduation project, my primary focus was on the backend architecture, with supportive contributions to the frontend:
 
 *   **Backend & Database Architecture (Primary Role):** Designing and implementing the entire cloud backend infrastructure using **Supabase** and PostgreSQL, including structuring the database schemas.
@@ -12,9 +12,9 @@ As a core developer of this graduation project, my primary focus was on the back
 *   **Frontend Integration:** Collaborating on the Flutter frontend by assisting with specific UI components and ensuring smooth data binding between the application interface and the Supabase backend.
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔐 Authentication & Interactive Onboarding
+### Authentication & Interactive Onboarding
 **Role Selection & Authentication**
 <img width="100%" src="https://github.com/user-attachments/assets/26423be1-fadf-41b6-b382-b39166b89d1a" />
 
@@ -23,7 +23,7 @@ As a core developer of this graduation project, my primary focus was on the back
 
 ---
 
-### 📱 Animal Discovery & User Experience
+### Animal Discovery & User Experience
 **Home Page & Animal Discovery Feed**
 <img width="100%" src="https://github.com/user-attachments/assets/24aae878-c3ab-4750-b83f-197653cdcfad" />
 
@@ -32,7 +32,7 @@ As a core developer of this graduation project, my primary focus was on the back
 
 ---
 
-### 💖 Smart Donation & Community Transparency
+### Smart Donation & Community Transparency
 **Itemized Smart Donation Panel**
 <img width="100%" src="https://github.com/user-attachments/assets/cd7e1ee5-fe23-42c7-b297-3c506fa53c1c" />
 
@@ -42,7 +42,7 @@ As a core developer of this graduation project, my primary focus was on the back
 
 ---
 
-### 🏢 Shelter Administration & Dashboard
+### Shelter Administration & Dashboard
 **Shelter Dashboard & Analytics**
 <img width="100%" src="https://github.com/user-attachments/assets/d101f67d-0fcb-4925-af78-44bfda9f4226" />
 
@@ -52,7 +52,7 @@ As a core developer of this graduation project, my primary focus was on the back
 
 ---
 
-### 👤 Profile & Account Management
+### Profile & Account Management
 **Role-based Profile Management**
 <img width="100%" src="https://github.com/user-attachments/assets/f85bfba1-5cc3-4207-8d31-d9cccef49bba" />
 
@@ -61,17 +61,17 @@ As a core developer of this graduation project, my primary focus was on the back
 <img src="https://github.com/user-attachments/assets/c0a2743c-a164-4462-81d6-20cb0f0163a2" width="300"/>
 
 
-## 🚀 Key Features
+## Key Features
 
-* **🔐 Secure Authentication:** Seamless user onboarding with clean login and registration layouts.
-* **🐾 Adoption Module:** Instantly view profiles of animals looking for a home, filter by status, and track adoption processes natively.
-* **💳 Secure Donation System:** Modulated donation system where users can contribute financially to individual animals or specific shelters.
-* **🩺 Health Record Tracking:** Keep a close eye on vaccination status, medical histories, and health logs directly from the profile views.
-* **✨ Fluid UI/UX & Animations:** Enhanced with micro-interactions, custom themes, and beautiful vector animations using Lottie.
+* **Secure Authentication:** Seamless user onboarding with clean login and registration layouts.
+* **Adoption Module:** Instantly view profiles of animals looking for a home, filter by status, and track adoption processes natively.
+* **Secure Donation System:** Modulated donation system where users can contribute financially to individual animals or specific shelters.
+* **Health Record Tracking:** Keep a close eye on vaccination status, medical histories, and health logs directly from the profile views.
+* **Fluid UI/UX & Animations:** Enhanced with micro-interactions, custom themes, and beautiful vector animations using Lottie.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Framework:** Flutter (Multi-platform UI Toolkit)
 * **Language:** Dart
@@ -81,7 +81,7 @@ As a core developer of this graduation project, my primary focus was on the back
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project strictly follows clean code standards and a structured design architecture:
 ```markdown
@@ -118,7 +118,7 @@ animal-shelter-app/ (Repository Root)
 
 ---
 
-## 🛫 Getting Started
+## Getting Started
 
 Follow these steps to run the application locally on your machine or emulator:
 
@@ -160,7 +160,7 @@ flutter run
 ---
 
 
-## 🎓 Credits
+## Credits
 
 This project was developed by **Merve Adalı** and **Ümran** as a Senior Graduation Project (Bitirme Projesi) at **Aydın Adnan Menderes University**.
 
