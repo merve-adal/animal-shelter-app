@@ -1,16 +1,15 @@
-# Patili Dostlar (Animal Shelter App)
+# BiYuva (Animal Shelter App)
 
-**Patili Dostlar** is a feature-rich, cross-platform mobile application developed as a Computer Engineering internship project. Built with Flutter and Dart, the application serves as a modern animal shelter ecosystem that bridges the gap between stray animals, shelters, and animal lovers. It facilitates pet adoptions, securely manages donation systems, and helps track animal health records.
+BiYuva is a feature-rich, cross-platform mobile application developed as a Computer Engineering Senior Graduation Project. Built with Flutter and Dart, the application serves as a modern animal shelter ecosystem that bridges the gap between stray animals, shelters, and animal lovers. It facilitates pet adoptions, securely manages donation systems, and helps track animal health records.
 
 ---
 
-<!--## 
+## 👩‍💻 My Contributions
+As a core developer of this graduation project, my primary focus was on the backend architecture, with supportive contributions to the frontend:
 
-🎬 Application Demo
-Watch the comprehensive mobile walk-through showcasing registration, home feed, adoption process, and real-time shelter modules:
-
-<video src="BURAYA_VIDEO_LINKINI_EKLEYIN" width="100%" controls></video>
--->
+*   **Backend & Database Architecture (Primary Role):** Designing and implementing the entire cloud backend infrastructure using **Supabase** and PostgreSQL, including structuring the database schemas.
+*   **Security & Data Logic:** Writing custom database functions, API integrations, and configuring strict Row Level Security (RLS) policies to ensure safe user authentication and data privacy.
+*   **Frontend Integration:** Collaborating on the Flutter frontend by assisting with specific UI components and ensuring smooth data binding between the application interface and the Supabase backend.
 ---
 
 ## 📸 Screenshots
@@ -95,7 +94,7 @@ Follow these steps to run the application locally on your machine or emulator:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/UmranMngr/animal-shelter-app.git](https://github.com/UmranMngr/animal-shelter-app.git)
+git clone https://github.com/merve-adal/animal-shelter-app.git
 cd animal-shelter-app
 
 ```
@@ -124,8 +123,9 @@ flutter run
 
 ---
 
+
 ## 🎓 Credits
 
-Developed with passion as part of a Computer Engineering Internship Project at **Aydın Adnan Menderes University**.
+This project was developed by **Merve Adalı** and **Ümran** as a Senior Graduation Project (Bitirme Projesi) at **Aydın Adnan Menderes University**.
 
 
