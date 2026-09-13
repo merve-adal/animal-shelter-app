@@ -14,16 +14,52 @@ As a core developer of this graduation project, my primary focus was on the back
 
 ## 📸 Screenshots
 
-### 📱 User Experience & Modules
-| Home Feed | Adoption Module | Donation Page |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/aac0f554-0af1-481d-af87-caec3035bbc2" width="250"/> | <img src="https://github.com/user-attachments/assets/e89c0ca8-5d91-467f-beb0-dbdbdda51075" width="250"/> | <img src="https://github.com/user-attachments/assets/d9959396-d7d5-4b7c-adf8-0519cb2d4753" width="250"/> |
+### 🔐 Authentication & Interactive Onboarding
+**Role Selection & Authentication**
+<img width="100%" src="https://github.com/user-attachments/assets/26423be1-fadf-41b6-b382-b39166b89d1a" />
 
-### 🔐 Auth & Profiles
-| Authentication | Animal Profiles | User Profile |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/05b65206-f196-4e61-9cda-74081a763add" width="250"/> | <img src="https://github.com/user-attachments/assets/606c120c-95a3-4a22-a20b-bbbfc6da8976" width="250"/> | <img src="https://github.com/user-attachments/assets/020007d0-2cba-4cbb-9c19-1b7a5bff4f70" width="250"/> |
+**Interactive Onboarding Process**
+<img width="100%" src="https://github.com/user-attachments/assets/2e043147-7391-4296-915c-ee1419c66a21" />
+
 ---
+
+### 📱 Animal Discovery & User Experience
+**Home Page & Animal Discovery Feed**
+<img width="100%" src="https://github.com/user-attachments/assets/24aae878-c3ab-4750-b83f-197653cdcfad" />
+
+**Animal Detail Page & Health History**
+<img width="100%" src="https://github.com/user-attachments/assets/d88320c6-d971-4b71-adc9-cde454ea1ab0" />
+
+---
+
+### 💖 Smart Donation & Community Transparency
+**Itemized Smart Donation Panel**
+<img width="100%" src="https://github.com/user-attachments/assets/cd7e1ee5-fe23-42c7-b297-3c506fa53c1c" />
+
+| Donation Gamification | Community Transparency Feed |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8df49456-68b8-4895-85d9-e60a794e811c" width="300"/> | <img src="https://github.com/user-attachments/assets/8cfcc364-b3d2-46e2-978c-9f998f205602" width="300"/> |
+
+---
+
+### 🏢 Shelter Administration & Dashboard
+**Shelter Dashboard & Analytics**
+<img width="100%" src="https://github.com/user-attachments/assets/d101f67d-0fcb-4925-af78-44bfda9f4226" />
+
+| Dynamic Price Management | Adoption Request Management |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/ed266149-bb3b-4434-a88a-68db6972e318" width="300"/> | <img src="https://github.com/user-attachments/assets/60ec206c-b0fd-4271-8543-a62731855097" width="300"/> |
+
+---
+
+### 👤 Profile & Account Management
+**Role-based Profile Management**
+<img width="100%" src="https://github.com/user-attachments/assets/f85bfba1-5cc3-4207-8d31-d9cccef49bba" />
+
+**Personal Donation Ledger (History)**
+<br>
+<img src="https://github.com/user-attachments/assets/c0a2743c-a164-4462-81d6-20cb0f0163a2" width="300"/>
+
 
 ## 🚀 Key Features
 
